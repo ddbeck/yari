@@ -144,7 +144,7 @@
     "use-debounce": "^5.2.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.5.0",
-    "webpack-node-externals": "^2.5.2"
+    "webpack-node-externals": "^3.0.0"
   },
   "engines": {
     "node": ">=12.11"
