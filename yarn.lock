@@ -2586,10 +2586,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@mdn/browser-compat-data@3.3.9":
-  version "3.3.9"
-  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-3.3.9.tgz#a7c7c81dba343227192e11d5513e809cdc59727e"
-  integrity sha512-rTYpol8vAIWnFLaLFxVOwHXd4tEVPIx6HlaG8IV/G1eWuLwg5y58dWHGTde2l7pRokbbjs75oKVWagUK14RRrQ==
+"@mdn/browser-compat-data@3.3.13":
+  version "3.3.13"
+  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-3.3.13.tgz#1b89fed0146d77c92f4d19b768fa5e646db8561b"
+  integrity sha512-YCclX4FGCVMkdIFykkyrgBkERN1huqU+Lyr767mbTuSVtj2LKfXpVwv/D0C1ZaefRvpinRJ/Xfy0mBNi7XIs0w==
 
 "@mdn/dinocons@^0.3.2":
   version "0.3.2"
