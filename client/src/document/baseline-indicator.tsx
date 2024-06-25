@@ -1,9 +1,9 @@
+import { useLocation } from "react-router";
 import { DEFAULT_LOCALE } from "../../../libs/constants";
 import { useLocale } from "../hooks";
 import { BASELINE } from "../telemetry/constants";
 import { useGleanClick } from "../telemetry/glean-context";
 import { Icon } from "../ui/atoms/icon";
-import { useLocation } from "react-router";
 
 import "./baseline-indicator.scss";
 
@@ -175,7 +175,7 @@ export function BaselineIndicator({ status }: { status: SupportStatus }) {
         <ul>
           <li>
             <a
-              href="/en-US/blog/baseline-evolution-on-mdn/"
+              href="/en-US/docs/Glossary/Baseline/Compatibility"
               data-glean={BASELINE.LINK_LEARN_MORE}
               target="_blank"
               className="learn-more"
